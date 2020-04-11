@@ -1,6 +1,6 @@
 # Shared Book Reading Interventions and Children's Skills
 
-**Authors:** Carlo Barone (SciencesPo) , Emilio Chambouleyron (Catholic University of Cordoba), Reka Vonnak (University og Glasgow),
+**Authors:** Carlo Barone (SciencesPo) , Emilio Chambouleyron (Catholic University of Cordoba), Reka Vonnak (University of Glasgow),
 Giullia Assirelli (Catolic University of Milan)
 
 **Abstract**: 
