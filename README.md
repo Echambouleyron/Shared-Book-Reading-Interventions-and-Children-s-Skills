@@ -1,5 +1,8 @@
 # Shared Book Reading Interventions and Children's Skills
 
+**Authors:** Carlo Barone (SciencesPo) , Emilio Chambouleyron (Catholic University of Cordoba), Reka Vonnak (University og Glasgow),
+Giullia Assirelli (Catolic University of Milan)
+
 **Abstract**: 
 Over the past two decades, a growing number of randomised controlled trials have assessed the impact on children’s language skills of 
 interventions encouraging parents to read books to their children. We present the results of a meta-analysis of the impact of 30 such 
